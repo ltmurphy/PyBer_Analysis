@@ -36,8 +36,3 @@ In order to address as many of the disparities observed among the city types, ou
 2. Redistribute suburban drivers to urban/rural areas mid-February to avoid any huge losses in this type of city during this period, with the option of bringing back this staff mid-April when total fare seems to increase again.
  
 3. Decrease number of drivers for urban cities. There are currently 780 more drivers than rides for Urban cities, and costs are incurred for the company for those drivers even if they do not have rides to give. Redistribution of these drivers to Suburban/Rural areas would help mitigate costs and potentially even increase profits.# PyBer_Analysis
-
-
-![image](https://user-images.githubusercontent.com/89947873/136718934-c9e04b0e-c029-416c-85ed-70ab09ff98a2.png)
-
-
