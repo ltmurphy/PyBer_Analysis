@@ -16,7 +16,7 @@ ___
 
   ![image](https://user-images.githubusercontent.com/89520192/136679439-8ad7d7ad-d6f2-4e83-a646-4a8189819c31.png)
 
-* The above graph shows the total fare by city type from January through April. Starting in January the totals in all cities trend upwards with a noticable dip across the board occurring after February. The totals are back on the rise by March. During April both Rural and Urban cities start to decline with Rural diving back down to its starting numbers. Suburban, however, is rising and headed toward its highest numbers yet.
+* The above graph shows the total fare by city type from January through April. Starting in January, the totals in all cities trend upwards with a noticable dip across the board occurring after February. The totals are back on the rise by March. During April both Rural and Urban cities start to decline with Rural diving back down to its starting numbers. Suburban, however, is rising and headed toward its highest numbers yet.
 ___
 ### PyBer Analysis Summary
 
