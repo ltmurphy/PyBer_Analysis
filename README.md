@@ -1,16 +1,10 @@
 # PyBer Analysis
 
-## Overview of PyBer Analysis with Python and Jupyter Notebook:
+## Overview of PyBer Analysis with Python, Pandas, and Matplotlib in Jupyter Notebook:
 
 ### Purpose
 ___
-The purpose of this analysis was to create a summary DataFrame of the ride-sharing data by city people from Module 5. 
-
-Using Pandas and Matplotlib, the objective is to create a multiple-line graph that shows the total weekly fares for each city type (urban, suburban and rural).
-
-Finally, once the data is collected, a report summarizing how the data differs by city type and how those differences can be used by decision-makers at OyBer is to be presented. 
-
-The data for the project is taken from the multiple cvs files in the **Resources** folder provided throughout **Module 5**.
+The purpose of our analysis was to create a summary DataFrame of the ride-sharing data using Python and Pandas. The next step was to use Pandas and Matplotlib to create a multi-linegraph that helped visualize the total weekly fares by city type. Finally a written report on the analysis was generated to highlight how the data differs by city type. This report will be used by decision-makers at PyBer
 
 ### PyBer Analysis Results
 ___
